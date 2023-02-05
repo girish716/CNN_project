@@ -17,3 +17,7 @@ Goal : Detecting edges for the input image by using filters, Pooling and finally
 Softmax output
 
 <img width="561" alt="image" src="https://user-images.githubusercontent.com/72153725/216839857-91fbd885-031c-44ac-94b1-c4f3444c6b13.png">
+
+
+
+note : filter are generated randomly, backward propagation can be used to increase the efficiency of the process by updating the weights, biases and filters data with the help of Loss identified at the output.
